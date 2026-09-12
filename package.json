@@ -1,0 +1,26 @@
+
+{
+  "name": "ghost-student-api",
+  "version": "1.0.0",
+  "description": "Ghost Student Incident - Express and MongoDB Assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "express",
+    "mongodb",
+    "mongoose",
+    "student-api"
+  ],
+  "author": "Muhammad Ibrahim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
